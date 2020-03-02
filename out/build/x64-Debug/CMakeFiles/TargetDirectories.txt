@@ -1,0 +1,16 @@
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/CMakeFiles/masssprings_dense.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/CMakeFiles/lib.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/CMakeFiles/masssprings_sparse.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glad/CMakeFiles/glad.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glad/CMakeFiles/edit_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glad/CMakeFiles/rebuild_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glfw/CMakeFiles/edit_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glfw/CMakeFiles/rebuild_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glfw/src/CMakeFiles/rebuild_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glfw/src/CMakeFiles/glfw.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/glfw/src/CMakeFiles/edit_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/stb_image/CMakeFiles/rebuild_cache.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/stb_image/CMakeFiles/igl_stb_image.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-mass-spring-systems/out/build/x64-Debug/stb_image/CMakeFiles/edit_cache.dir
